@@ -1,0 +1,2 @@
+# Netflix-Cinematic-Universe-Trends-Talents-Timelines
+Netflix Cinematic Universe: Trends, Talents &amp; Timelines explores how Netflix’s film library evolves, analyzing genre trends, director-actor collaborations, country-specific contributions, movie relevance over time, and talent dynamics. Through data-driven insights, this project maps the shifting patterns that define storytelling on Netflix. 
